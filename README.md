@@ -245,43 +245,12 @@ DSA implementations, competitive programming practice, and problem-solving solut
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Srijan-Jain-Stack&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan-Jain-Stack&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Srijan-Jain-Stack&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </p>
 
 ---
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Srijan-Jain-Stack/Srijan-Jain-Stack/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<a href="https://github.com/Srijan-Jain-Stack">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijan-Jain-Stack&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</a>
-
-</p>
-
----
 
 # 🌱 Currently Exploring
 
